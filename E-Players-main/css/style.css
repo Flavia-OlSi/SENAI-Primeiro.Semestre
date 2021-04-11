@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400;700&display=swap');
+
+:root{
+    --background: #000000;
+    --red: EF2626;
+    --gray: #474549;
+    --font: 'Titillium Web', sans-serif;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    font-family: var(--font);
+    background-color: var(--background);
+} 
+
+
+@media screen and (max-width: 1199px){
+
+}
+
+@media screen and (max-width: 767px){
+
+}
+
+@media screen and (max-width: 575px){
+
+}

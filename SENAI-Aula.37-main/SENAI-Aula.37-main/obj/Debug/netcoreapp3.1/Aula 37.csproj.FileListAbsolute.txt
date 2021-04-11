@@ -1,0 +1,13 @@
+C:\Users\Flávia\Documents\Técnico\Aula 37\bin\Debug\netcoreapp3.1\Aula 37.exe
+C:\Users\Flávia\Documents\Técnico\Aula 37\bin\Debug\netcoreapp3.1\Aula 37.deps.json
+C:\Users\Flávia\Documents\Técnico\Aula 37\bin\Debug\netcoreapp3.1\Aula 37.runtimeconfig.json
+C:\Users\Flávia\Documents\Técnico\Aula 37\bin\Debug\netcoreapp3.1\Aula 37.runtimeconfig.dev.json
+C:\Users\Flávia\Documents\Técnico\Aula 37\bin\Debug\netcoreapp3.1\Aula 37.dll
+C:\Users\Flávia\Documents\Técnico\Aula 37\bin\Debug\netcoreapp3.1\Aula 37.pdb
+C:\Users\Flávia\Documents\Técnico\Aula 37\obj\Debug\netcoreapp3.1\Aula 37.csprojAssemblyReference.cache
+C:\Users\Flávia\Documents\Técnico\Aula 37\obj\Debug\netcoreapp3.1\Aula 37.AssemblyInfoInputs.cache
+C:\Users\Flávia\Documents\Técnico\Aula 37\obj\Debug\netcoreapp3.1\Aula 37.AssemblyInfo.cs
+C:\Users\Flávia\Documents\Técnico\Aula 37\obj\Debug\netcoreapp3.1\Aula 37.csproj.CoreCompileInputs.cache
+C:\Users\Flávia\Documents\Técnico\Aula 37\obj\Debug\netcoreapp3.1\Aula 37.dll
+C:\Users\Flávia\Documents\Técnico\Aula 37\obj\Debug\netcoreapp3.1\Aula 37.pdb
+C:\Users\Flávia\Documents\Técnico\Aula 37\obj\Debug\netcoreapp3.1\Aula 37.genruntimeconfig.cache

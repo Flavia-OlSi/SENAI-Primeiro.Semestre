@@ -1,0 +1,38 @@
+C:\Users\Flávia\Documents\Técnico\Aula 56\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Flávia\Documents\Técnico\Aula 56\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Flávia\Documents\Técnico\Aula 56\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Flávia\Documents\Técnico\Aula 56\bin\Debug\netcoreapp3.1\Aula 56.exe
+C:\Users\Flávia\Documents\Técnico\Aula 56\bin\Debug\netcoreapp3.1\Aula 56.deps.json
+C:\Users\Flávia\Documents\Técnico\Aula 56\bin\Debug\netcoreapp3.1\Aula 56.runtimeconfig.json
+C:\Users\Flávia\Documents\Técnico\Aula 56\bin\Debug\netcoreapp3.1\Aula 56.runtimeconfig.dev.json
+C:\Users\Flávia\Documents\Técnico\Aula 56\bin\Debug\netcoreapp3.1\Aula 56.dll
+C:\Users\Flávia\Documents\Técnico\Aula 56\bin\Debug\netcoreapp3.1\Aula 56.pdb
+C:\Users\Flávia\Documents\Técnico\Aula 56\bin\Debug\netcoreapp3.1\Aula 56.Views.dll
+C:\Users\Flávia\Documents\Técnico\Aula 56\bin\Debug\netcoreapp3.1\Aula 56.Views.pdb
+C:\Users\Flávia\Documents\Técnico\Aula 56\obj\Debug\netcoreapp3.1\Aula 56.csprojAssemblyReference.cache
+C:\Users\Flávia\Documents\Técnico\Aula 56\obj\Debug\netcoreapp3.1\Aula 56.AssemblyInfoInputs.cache
+C:\Users\Flávia\Documents\Técnico\Aula 56\obj\Debug\netcoreapp3.1\Aula 56.AssemblyInfo.cs
+C:\Users\Flávia\Documents\Técnico\Aula 56\obj\Debug\netcoreapp3.1\Aula 56.csproj.CoreCompileInputs.cache
+C:\Users\Flávia\Documents\Técnico\Aula 56\obj\Debug\netcoreapp3.1\Aula 56.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Flávia\Documents\Técnico\Aula 56\obj\Debug\netcoreapp3.1\Aula 56.RazorAssemblyInfo.cache
+C:\Users\Flávia\Documents\Técnico\Aula 56\obj\Debug\netcoreapp3.1\Aula 56.RazorAssemblyInfo.cs
+C:\Users\Flávia\Documents\Técnico\Aula 56\obj\Debug\netcoreapp3.1\Aula 56.TagHelpers.input.cache
+C:\Users\Flávia\Documents\Técnico\Aula 56\obj\Debug\netcoreapp3.1\Aula 56.TagHelpers.output.cache
+C:\Users\Flávia\Documents\Técnico\Aula 56\obj\Debug\netcoreapp3.1\Aula 56.RazorCoreGenerate.cache
+C:\Users\Flávia\Documents\Técnico\Aula 56\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Flávia\Documents\Técnico\Aula 56\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Flávia\Documents\Técnico\Aula 56\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Flávia\Documents\Técnico\Aula 56\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Flávia\Documents\Técnico\Aula 56\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Flávia\Documents\Técnico\Aula 56\obj\Debug\netcoreapp3.1\Aula 56.RazorTargetAssemblyInfo.cache
+C:\Users\Flávia\Documents\Técnico\Aula 56\obj\Debug\netcoreapp3.1\Aula 56.RazorTargetAssemblyInfo.cs
+C:\Users\Flávia\Documents\Técnico\Aula 56\obj\Debug\netcoreapp3.1\Aula 56.Views.pdb
+C:\Users\Flávia\Documents\Técnico\Aula 56\obj\Debug\netcoreapp3.1\staticwebassets\Aula 56.StaticWebAssets.Manifest.cache
+C:\Users\Flávia\Documents\Técnico\Aula 56\obj\Debug\netcoreapp3.1\staticwebassets\Aula 56.StaticWebAssets.xml
+C:\Users\Flávia\Documents\Técnico\Aula 56\obj\Debug\netcoreapp3.1\Aula 56.dll
+C:\Users\Flávia\Documents\Técnico\Aula 56\obj\Debug\netcoreapp3.1\Aula 56.pdb
+C:\Users\Flávia\Documents\Técnico\Aula 56\obj\Debug\netcoreapp3.1\Aula 56.genruntimeconfig.cache
+C:\Users\Flávia\Documents\Técnico\Aula 56\obj\Debug\netcoreapp3.1\Aula 56.csproj.CopyComplete
+C:\Users\Flávia\Documents\Técnico\Aula 56\obj\Debug\netcoreapp3.1\Razor\Views\Equipe\Index.cshtml.g.cs
+C:\Users\Flávia\Documents\Técnico\Aula 56\obj\Debug\netcoreapp3.1\Razor\Views\Jogador\Index.cshtml.g.cs
+C:\Users\Flávia\Documents\Técnico\Aula 56\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs

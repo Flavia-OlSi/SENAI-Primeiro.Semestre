@@ -1,0 +1,13 @@
+C:\Users\Flávia\Documents\Técnico\Aula 34\Acerto de idade - While\obj\Debug\netcoreapp3.1\Acerto de idade - While.csprojAssemblyReference.cache
+C:\Users\Flávia\Documents\Técnico\Aula 34\Acerto de idade - While\obj\Debug\netcoreapp3.1\Acerto de idade - While.AssemblyInfoInputs.cache
+C:\Users\Flávia\Documents\Técnico\Aula 34\Acerto de idade - While\obj\Debug\netcoreapp3.1\Acerto de idade - While.AssemblyInfo.cs
+C:\Users\Flávia\Documents\Técnico\Aula 34\Acerto de idade - While\obj\Debug\netcoreapp3.1\Acerto de idade - While.csproj.CoreCompileInputs.cache
+C:\Users\Flávia\Documents\Técnico\Aula 34\Acerto de idade - While\bin\Debug\netcoreapp3.1\Acerto de idade - While.exe
+C:\Users\Flávia\Documents\Técnico\Aula 34\Acerto de idade - While\bin\Debug\netcoreapp3.1\Acerto de idade - While.deps.json
+C:\Users\Flávia\Documents\Técnico\Aula 34\Acerto de idade - While\bin\Debug\netcoreapp3.1\Acerto de idade - While.runtimeconfig.json
+C:\Users\Flávia\Documents\Técnico\Aula 34\Acerto de idade - While\bin\Debug\netcoreapp3.1\Acerto de idade - While.runtimeconfig.dev.json
+C:\Users\Flávia\Documents\Técnico\Aula 34\Acerto de idade - While\bin\Debug\netcoreapp3.1\Acerto de idade - While.dll
+C:\Users\Flávia\Documents\Técnico\Aula 34\Acerto de idade - While\bin\Debug\netcoreapp3.1\Acerto de idade - While.pdb
+C:\Users\Flávia\Documents\Técnico\Aula 34\Acerto de idade - While\obj\Debug\netcoreapp3.1\Acerto de idade - While.dll
+C:\Users\Flávia\Documents\Técnico\Aula 34\Acerto de idade - While\obj\Debug\netcoreapp3.1\Acerto de idade - While.pdb
+C:\Users\Flávia\Documents\Técnico\Aula 34\Acerto de idade - While\obj\Debug\netcoreapp3.1\Acerto de idade - While.genruntimeconfig.cache

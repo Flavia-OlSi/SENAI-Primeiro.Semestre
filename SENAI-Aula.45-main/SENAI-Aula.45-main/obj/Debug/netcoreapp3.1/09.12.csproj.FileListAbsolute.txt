@@ -1,0 +1,13 @@
+C:\Users\Flávia\Documents\Técnico\Aula 45\bin\Debug\netcoreapp3.1\09.12.exe
+C:\Users\Flávia\Documents\Técnico\Aula 45\bin\Debug\netcoreapp3.1\09.12.deps.json
+C:\Users\Flávia\Documents\Técnico\Aula 45\bin\Debug\netcoreapp3.1\09.12.runtimeconfig.json
+C:\Users\Flávia\Documents\Técnico\Aula 45\bin\Debug\netcoreapp3.1\09.12.runtimeconfig.dev.json
+C:\Users\Flávia\Documents\Técnico\Aula 45\bin\Debug\netcoreapp3.1\09.12.dll
+C:\Users\Flávia\Documents\Técnico\Aula 45\bin\Debug\netcoreapp3.1\09.12.pdb
+C:\Users\Flávia\Documents\Técnico\Aula 45\obj\Debug\netcoreapp3.1\09.12.csprojAssemblyReference.cache
+C:\Users\Flávia\Documents\Técnico\Aula 45\obj\Debug\netcoreapp3.1\09.12.AssemblyInfoInputs.cache
+C:\Users\Flávia\Documents\Técnico\Aula 45\obj\Debug\netcoreapp3.1\09.12.AssemblyInfo.cs
+C:\Users\Flávia\Documents\Técnico\Aula 45\obj\Debug\netcoreapp3.1\09.12.csproj.CoreCompileInputs.cache
+C:\Users\Flávia\Documents\Técnico\Aula 45\obj\Debug\netcoreapp3.1\09.12.dll
+C:\Users\Flávia\Documents\Técnico\Aula 45\obj\Debug\netcoreapp3.1\09.12.pdb
+C:\Users\Flávia\Documents\Técnico\Aula 45\obj\Debug\netcoreapp3.1\09.12.genruntimeconfig.cache
